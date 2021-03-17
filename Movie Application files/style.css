@@ -66,8 +66,6 @@ small {
     background-color: rgba(0,0,0,0.85);
 }
 
-/* The above is Mobile first */
-
 @media (min-width:786px){
     .form {
         grid-template-columns: auto 1fr auto;
